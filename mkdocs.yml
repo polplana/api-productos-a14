@@ -1,0 +1,12 @@
+site_name: API de productos - A1.4
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Arquitectura: arquitectura.md
+  - Despliegue: despliegue.md
+  - Operación: operacion.md
+  - API: api.md
